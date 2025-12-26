@@ -1,0 +1,29 @@
+{
+  "name": "smart-med-box-backend",
+  "version": "1.0.0",
+  "description": "Smart Medicine Box Backend - MongoDB, MQTT, Socket.IO",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "medicine",
+    "mqtt",
+    "socket.io",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aedes": "^0.46.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0",
+    "socket.io": "^4.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
