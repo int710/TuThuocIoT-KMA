@@ -29,7 +29,7 @@
 #include "esp_task_wdt.h"
 
 // ============ CONFIGURATION ============
-#define BOT_TOKEN "8411526694:AAH_TOaQNJefmZvafAH5Gqo5SJuKTbVo3lE"
+#define BOT_TOKEN "xxxxx"
 #define MAX_RECIPIENTS 5
 #define MAX_MEDICINES 10
 #define MAX_REMINDERS 5
